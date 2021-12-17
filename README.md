@@ -5,9 +5,9 @@ jenkins-kubernetes is a [jenkins](https://www.jenkins.io/) deploy application fo
 
 ## Requirements
 
-- Kind
-- kubernetes
-- Docker
+- [Kind](https://kind.sigs.k8s.io/)
+- [kubernetes](https://kubernetes.io/)
+- [Docker](https://www.docker.com/)
 
 ## How to build
 
